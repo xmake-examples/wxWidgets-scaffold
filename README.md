@@ -38,7 +38,7 @@ in xmake-repo:
   -> wxWidgets 3.2.0
 please input: y (y/n/m)
 
-  => download https://github.com/raysan5/wxWidgets/archive/refs/tags/3.2.0.tar.gz .. ok
+  => download https://github.com/wxWidgets/wxWidgets/archive/refs/tags/3.2.0.tar.gz .. ok
   => install wxWidgets 3.2.0 .. ok
 [ 25%]: ccache compiling.release src/main.c
 [ 50%]: linking.release wxWidgets-scaffold
